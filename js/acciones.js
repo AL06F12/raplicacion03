@@ -14,4 +14,10 @@
 	$('#B_Rex').tap(function (e) {
  	 $.mobile.navigate( "#Rex" );
 	});
+	$('#vel').tap(function (e) {
+ 	 $.mobile.navigate( "#velociraptor" );
+	});
+	$('#dino').tap(function (e) {
+ 	 $.mobile.navigate( "#dinosaurios" );
+	});
 });//ready
